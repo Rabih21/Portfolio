@@ -231,6 +231,13 @@
         text-decoration: underline;
     }
 
+    .learning_style{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+
     /* Media Queries for Responsiveness */
     @media (max-width: 768px) {
         .header h1 {
